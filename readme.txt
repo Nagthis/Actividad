@@ -1,4 +1,4 @@
 **integrantes
 Jose Luis Chavez
-Felipe Diaz
+Felipe Rodrigo Diaz Nuñez
 Cristian blanco
